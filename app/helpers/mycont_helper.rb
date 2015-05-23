@@ -1,0 +1,2 @@
+module MycontHelper
+end
